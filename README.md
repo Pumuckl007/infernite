@@ -10,5 +10,5 @@ Infernite Ingots and Infernite Alloys Can be crafted into tools and Infernite In
 
 Install:
 Download and install modloader http://www.minecraft...minary-updates/
-then create a mods folder in your .minecraft open the zip and go into the Pumuckl007-infernite-618280c folder and the drag the Infernite.zip into the mods folder.
+then create a mods folder in your .minecraft open the zip and go into the Pumuckl007-infernite-c90dcba folder and the drag the Infernite.zip into the mods folder.
 Fourm thread: http://www.minecraftforum.net/topic/1454417-132-infernite-mod-v10/
